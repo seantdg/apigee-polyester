@@ -1,0 +1,14 @@
+{
+  "name": "apigee-polyester-example",
+  "version": "1.0.0",
+  "description": "Policy Testing Example Project",
+  "dependencies": {
+    "apigee-polyester": "0.0.5",
+    "apickli": "1.5.0",
+    "async": "1.5.2",
+    "request": "2.69.0",
+    "xmldom": "0.1.22",
+    "xpath": "0.0.21",
+    "sleep": "3.0.1"
+  }
+}

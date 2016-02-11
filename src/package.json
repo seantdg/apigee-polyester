@@ -1,0 +1,34 @@
+{
+  "name": "apigee-polyester",
+  "version": "0.0.5",
+  "description": "Apigee Edge Policy Testing using BDD",
+  "main": "apigee-polyester.js",
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seantdg/apigee-polyester.git"
+  },
+  "keywords": [
+    "apigee",
+    "policy",
+    "unit",
+    "test",
+    "cucumber.js",
+    "integration",
+    "rest",
+    "api"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/seantdg/apigee-polyester/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+      "async": "1.5.2",
+      "request": "2.69.0",
+      "xmldom": "0.1.22",
+      "xpath": "0.0.21"
+  },
+  "devDependencies": {}
+}
